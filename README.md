@@ -1,3 +1,3 @@
 # Homosum
 
-Homo sum humani a me nihil alienum puto
+Homo sum et nihil humani a me alienum
